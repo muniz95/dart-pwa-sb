@@ -12,3 +12,6 @@ doc/api/
 
 # Cloud9 related
 .c9/
+
+# Other
+node_modules/
